@@ -1,4 +1,4 @@
-name: CD Gitops
+name: CD Demo
 
 on:
   push:
